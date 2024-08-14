@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I'm passionate about app and web development, UX design and Data analytics.
+I'm passionate about App and Web Development, UX Design and Data Analytics.
 
 ---
 
