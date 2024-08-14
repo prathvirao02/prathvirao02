@@ -2,8 +2,7 @@
 <h3 align="center">Aspiring Developer | UX Designer | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages-Passionate-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Tools-Experience-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Developer-UX Designer-Data Analyst-bluevioletblue?style=for-the-badge">
 </p>
 
 ---
