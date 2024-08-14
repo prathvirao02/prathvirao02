@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-blue?style=for-the-badge" alt="Developer">
-  <img src="https://img.shields.io/badge/UX%20Designer-violet?style=for-the-badge" alt="UX Designer">
+  <img src="https://img.shields.io/badge/UX%20Designer-blueviolet?style=for-the-badge" alt="UX Designer">
   <img src="https://img.shields.io/badge/Data%20Analyst-blue?style=for-the-badge" alt="Data Analyst">
 </p>
 
