@@ -9,9 +9,15 @@
 
 ---
 
-### 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-I'm passionate about App and Web Development, UX Design and Data Analytics.
+<p align="center">
+  Hello! I'm <strong>K Prathvi Rao</strong>, a passionate <strong>App and Web Developer</strong>, <strong>UX Designer</strong> and <strong>Data Analyst</strong>.
+</p>
+
+<p align="center">
+  Let's connect and collaborate to bring ideas to life!
+</p>
 
 ---
 
