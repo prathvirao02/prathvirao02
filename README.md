@@ -47,7 +47,7 @@
 
 ---
 
-<h2 align="center">📫 Contact Me</h2>
+<h2 align="center">🙋🏻‍♀️ Contact Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/linkedin.com/in/prathvi28/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
