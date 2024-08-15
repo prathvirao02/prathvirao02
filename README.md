@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">👩🏻‍💻 About Me</h2>
 
 <p align="center">
   Hello! I'm <strong>K Prathvi Rao</strong>, a passionate <strong>App and Web Developer</strong>, <strong>UX Designer</strong> and <strong>Data Analyst</strong>.
